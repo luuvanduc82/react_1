@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.glass{
+  position: absolute;
+  left: 50%;
+  top:22%;
+  transform: translateX(-50%);
+}
+.glass-txt{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
